@@ -1,0 +1,26 @@
+# Core AI/LLM
+anthropic>=0.40.0
+
+# MCP SDK (Model Context Protocol) - CRITICAL
+mcp>=1.0.0
+
+# A2A SDK (Agent-to-Agent Protocol) - CRITICAL  
+a2a-sdk>=0.1.0
+
+# LangGraph for agent workflows
+langgraph>=0.2.0
+langgraph-cli>=0.1.0
+
+# LangChain components
+langchain-core>=0.3.0
+langchain-anthropic>=0.2.0
+
+# Server frameworks
+starlette>=0.37.0
+uvicorn>=0.30.0
+httpx>=0.27.0
+
+# Utilities
+python-dotenv>=1.0.0
+asyncclick>=8.1.0
+rich>=13.0.0
